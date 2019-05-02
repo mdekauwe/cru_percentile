@@ -1,0 +1,5 @@
+.DS_Store
+data/.DS_Store
+data/.DS_Store
+data/TMAX/*.nc
+flux_site_95th_percentile.csv
